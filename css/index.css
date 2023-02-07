@@ -145,7 +145,8 @@ ul {
 }
 
 .banner img {
-  width: 100%;
+  width: 800px;
+  height: 600px;
 }
 
 /* 日期模块 */

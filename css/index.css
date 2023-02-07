@@ -214,7 +214,7 @@ ul {
   color: red;
   font-size: 150px;
 }
-
+/* 
 @media screen and (max-width: 768px) {
   .banner {
     width: 800px !important; ;
@@ -251,4 +251,4 @@ ul {
   .our-name>span {
     font-size: 100px;
   }
-}
+} */

@@ -109,7 +109,7 @@ ul {
   text-align: center;
   width: auto;
   height: 600px !important;
-  margin: 50px 0 0 0;
+  margin: 80px 0 0 0;
   border-radius: 40px;
   border: 10px solid #fff;
   display: flex;
@@ -195,7 +195,7 @@ ul {
 
 .svg {
   margin-top: 0px;
-  width: 300px;
+  width: 450px;
   /* height: 73px; */
 }
 

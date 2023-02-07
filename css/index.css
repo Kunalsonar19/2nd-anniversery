@@ -112,7 +112,7 @@ ul {
 .banner {
   position: relative;
   text-align: center;
-  max-width: 900px;
+  width: 900px;
   margin: 100px 0 0 0;
   border-radius: 40px;
   border: 10px solid #fff;

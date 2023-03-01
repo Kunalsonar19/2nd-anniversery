@@ -11,8 +11,6 @@
     url("//at.alicdn.com/t/font_669713_r7pgq0vmjqc.svg#iconfont") format("svg");
 }
 
-/*载入字体*/
-
 @font-face {
   font-family: "JournalRegular";
   src: url("../font/CHERI___.TTF");
@@ -25,7 +23,7 @@
   font-size: 20px;
   font-style: normal;
   z-index: 10001;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .iconfont {
@@ -100,8 +98,6 @@ ul {
   display: none;
 }
 
-/* 图片{模块 */
-
 .banner {
   position: relative;
   text-align: center;
@@ -161,9 +157,9 @@ ul {
 }
 
 .intro {
-  font-size: 50px;
+  font-size: 40px;
   letter-spacing: 2px;
-  margin-bottom: 20px;
+  margin: 20px;
   color: #3e4149;
   position: relative;
   left: 0px;
@@ -210,7 +206,7 @@ ul {
 
 .our-name>span {
   color: red;
-  font-size: 150px;
+  font-size: 100px;
 }
 
 /* 

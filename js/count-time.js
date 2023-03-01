@@ -1,5 +1,5 @@
 /**
- * 计时器,每次重新计算效率有待优化
+ * 
  * @param  {[type]} target [description]
  * @param  {[type]} d      [description]
  * @param  {[type]} h      [description]
@@ -19,7 +19,7 @@ var countTime = function (target, d, h, m, s) {
 
 
 /**
- * 更改显示值
+ * 
  * @param  {[type]} d [description]
  * @param  {[type]} h [description]
  * @param  {[type]} m [description]
@@ -45,7 +45,7 @@ var _countTime = function (d, h, m, s) {
 
 
 /**
- * 计算差距的具体时间
+ * 
  * @param  {[type]} day [description]
  * @return {[type]}     [description]
  */

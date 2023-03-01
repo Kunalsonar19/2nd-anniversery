@@ -57,8 +57,6 @@ ul {
   padding: 0;
 }
 
-/* 音频模块 */
-
 .music {
   width: 70px;
   height: 70px;
@@ -141,7 +139,7 @@ ul {
 
 .banner img {
   width: auto;
-  height: 600px !important ;
+  height: 600px !important;
 }
 
 /* 日期模块 */
@@ -201,7 +199,7 @@ ul {
 
 .our-name {
   position: relative;
-  font-size: 60px;
+  font-size: 50px;
   margin: 0;
   color: #1c1c1d;
   display: flex;
@@ -214,6 +212,7 @@ ul {
   color: red;
   font-size: 150px;
 }
+
 /* 
 @media screen and (max-width: 768px) {
   .banner {
